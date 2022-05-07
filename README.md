@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luan and I'm curently a aspirant to web developer working with other in the <alpha/edtech> for one day be a full-stack web developer 🚀🚀🚀
+My name is Luan and I'm currently an aspirant to web developer working with other in the <alpha/edtech> for one day be a full-stack web developer 🚀🚀🚀
 
 - 🌱 I’m currently learning Web development.
 - 
